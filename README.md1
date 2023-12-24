@@ -1,0 +1,20 @@
+Before running the automation suite, ensure you have the following software installed on your machine:
+
+Java Development Kit (JDK):
+
+Download and install the latest JDK from Oracle JDK Downloads.
+Maven:
+
+Download and install Maven by following the instructions on Maven Installation Guide.
+WebDriver:
+
+Download the appropriate WebDriver for your browser (e.g., ChromeDriver) from WebDriver Downloads.
+Selenium:
+
+Selenium dependencies are managed by Maven. No separate installation is required.
+TestNG:
+
+TestNG dependencies are managed by Maven. No separate installation is required.
+Apache POI:
+
+Apache POI dependencies are managed by Maven. No separate installation is required.
